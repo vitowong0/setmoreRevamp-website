@@ -33,6 +33,20 @@ body{
   padding: 50px;
 }
 
+.rest{
+  padding-top: 650px;
+}
+
+#txbox{
+  background-color: #F3F1EB;
+  align-content: center;
+  width: 85%;
+  height: 60%;
+  position: absolute;
+  border-radius: 25px;
+  padding: 50px;
+  color: black;
+}
 
 
 
